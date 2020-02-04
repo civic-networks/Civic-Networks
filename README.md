@@ -1,10 +1,10 @@
 # Civic Networks
 
-Civic Networks is an umbrella organization for a family of social networks that work for all of humanity. These networks use ethical advertising and commerce to convert online fun into money, and convert that money into societal good.
+Civic Networks is an umbrella organization for a family of social networks that benefit society. These networks use ethical advertising programs to convert online fun into money, and convert money into social good.
 
-It works like this:
+Here's how it works:
 
-**First, we will be organized as a 501(c)(3)** **nonprofit**. That means "going public", selling to Facebook, or any other get-rich-quick schemes are off the table. We make business decisions based on how to do the most good. On the other hand, we operate like a for-profit in applying modern technology, media strategies, etc. to support our mission. 
+**First, we will be organized as a 501(c)(3)** **nonprofit**. That means "going public", selling to Facebook, or any other get-rich-quick schemes are off the table. We make decisions based on how to do the most good. On the other hand, we operate like a for-profit in applying modern technology, media strategies, etc. to support our mission. 
 
 **We provide infrastructure for building and operating social networks.** That includes software and hosting. Tools for monitoring and analysis. Assistance with recruitment, and access to a shared network of advertisers and ad-tech. By sharing this infrastructure across multiple networks we can lower our costs. 
 
