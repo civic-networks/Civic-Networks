@@ -1,5 +1,3 @@
-# Civic Networks
-
 Civic Networks is an umbrella organization for a family of social networks that benefit society. These networks use ethical advertising programs to convert online fun into money, and convert money into social good.
 
 Here's how it works:
