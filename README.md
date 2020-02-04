@@ -4,7 +4,7 @@ Civic Networks is an umbrella organization for a family of social networks that 
 
 Here's how it works:
 
-**First, we will be organized as a 501(c)(3)** **nonprofit**. That means "going public", selling to Facebook, or any other get-rich-quick schemes are off the table. We make decisions based on how to do the most good. On the other hand, we operate like a for-profit in applying modern technology, media strategies, etc. to support our mission. 
+**First, we will be organized as a 501(c)(3)** **nonprofit**. That means "going public", selling to Facebook, or any other get-rich-quick schemes are off the table. Our goal is to do the most good, but we operate like a for-profit in applying modern technology, media strategies, etc. to support our mission. 
 
 **We provide infrastructure for building and operating social networks.** That includes software and hosting. Tools for monitoring and analysis. Assistance with recruitment, and access to a shared network of advertisers and ad-tech. By sharing this infrastructure across multiple networks we can lower our costs. 
 
