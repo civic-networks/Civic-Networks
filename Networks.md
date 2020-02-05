@@ -8,7 +8,7 @@ Please note: For now, all names below are project names. None of them have been 
 
 ## edge
 
-**Status: edge** is the most developed idea, and for many reasons, the most attractive candidate for an initial network.
+**Status: edge** is the most developed idea, and for many reasons the most attractive candidate for an initial network.
 
 
 
@@ -22,9 +22,14 @@ Jess is a college student in the United States with an interest in social causes
 
 edge has the following features
 
-- Real Names only (see next item)
+- Real Identities/Names only (see next item)
 - Validated by .edu email address from an approved school is required
-- 
+- Bi-directional friend relationships
+- Supports connections via 
+  - schools/campuses
+  - clubs, greek orgs, 
+  - dorms/houses, etc.
+  - courses/majors
 
 
 
@@ -34,11 +39,14 @@ College students:
 
 - More idealistic
 - Open to change
-- A vital source of builders for Civic Networks (designers, media producers, coders, AI specialists, etc. )
-- Strong real-world social networks.
+- **A vital source of builders for Civic Networks (designers, media producers, coders, AI specialists, etc. )**
+- **Strong, bounded, real-world social networks.**
 - Heavy social network users
-- Easy-to-control rollout (school-by-school) enables scaling, adjusting, handling technical issues, 
+- Easy-to-control rollout (school-by-school) enables scaling, adjusting/pivoting, handling technical issues, 
 - Monetizable. An attractive demographic for advertisers who want to establish and strengthen lifetime brand relationships
+- Strong incentive to good behavior 
+
+Traditional style network
 
 
 
@@ -90,7 +98,19 @@ SFW (Safe For Work)
 
 ------
 
+## brrng!
 
+brrng! is messaging application with support for disappearing messages (like Snapchat).
+
+
+
+### Rationale
+
+- Easy signup 
+- Real identity (based on phone numbers)
+- Easy growth path via contact list
+
+---
 
 ## word
 
