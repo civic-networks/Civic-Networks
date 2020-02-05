@@ -14,14 +14,12 @@ Jess is a straight, single freshman at Mount Holyoke in the South Hadley, Massac
 
 Brian is a straight male student at Baylor University  in Waco Texas, a Christian University. He majors in accounting and follows the school's Division 1 football and basketball teams. He's a member of a fraternity and is active in his church.  Last summer he travelled to central America as part of a mission focused on helping impoverished children in Honduras.
 
-
-
 ### Features/Details
 
 edge has the following features
 
-- Real Identities/Names only (see next item)
-- Validated by .edu email address from an approved school is required
+- Invite only
+- Real Identities/Names only, validated (initially) by .edu email address from an approved school is required
 - Bi-directional friend relationships
 - Bounded invites. (depth)
 - Supports connections via 
@@ -96,13 +94,12 @@ In some ways, Twitter is an ideal candidate. It's a highly politicized environme
 - one-way relationships
 - direct messaging
 - profiles
-- 
 
 Specialty tools/features
 
 - Duel posting to twitter (and facebook)?
 - Sign on with twitter (for verified customers only?)
-- 
+- Post buttons for third-party sites
 
 ### User Profile
 
