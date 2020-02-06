@@ -69,12 +69,16 @@ In some ways, Twitter is an ideal candidate. It's a highly politicized environme
 - Twitter has relatively few features compared to other networks. 
 - Not as demanding (cost-wise) as a more media-rich platform like TikTok or Instagram.
 - If influencers could be convinced to join, their followers would, well, follow. 
-- It is unbounded in terms of growth and could potentially exploit traditional media more readily than a closed network like edge.
+- It is unbounded in terms of potential growth and might exploit traditional media more readily than a closed network like edge. 
+- Twitter has notable usability issues, including:
+  - retweeting
+  - the confusing of likes and bookmarks
+  - difficulty making and viewing long threaded tweets (tweet storms) and conversations
 
 ### Concerns
 
 - It doesn't leverage real world social networks other than celebrity/fan networks.
-- For many regular users, outrage may be more of a feature than a bug.
+- For many regular users, outrage is more feature than bug.
 - Influencers/Celebrities need to be brought on board 
 - Public posts could cause future reputational damage
 - It is highly embedded as the channel for traditional media
@@ -82,6 +86,12 @@ In some ways, Twitter is an ideal candidate. It's a highly politicized environme
 - How to 
   - avoid having hate groups and trolls join
   - keep the conversation civil
+
+
+
+Approach
+
+Twitter should be evaluated as a system to identify weak spots where it is sensitive to disruption
 
 ### Features
 
@@ -100,6 +110,7 @@ Specialty tools/features
 - Duel posting to twitter (and facebook)?
 - Sign on with twitter (for verified customers only?)
 - Post buttons for third-party sites
+- Support for all twitter ad formats
 
 ### User Profile
 
