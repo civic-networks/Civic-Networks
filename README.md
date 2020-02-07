@@ -4,9 +4,23 @@ Civic Networks is the umbrella organization for a family of social networks that
 
 Check out the links below to see what we're about. And how you fit in. 
 
+
+
+# WHAT
+
 #### [About Civic Networks](About.md)
 
 If you're new to Civic Networks, start here. 
+
+#### [Our Communities](Communities.md)
+
+These are the communities we're currently considering
+
+#### [Our Charities](Charities.md)
+
+How we decide where the money goes
+
+# HOW
 
 #### [Organization](Organization.md)
 
@@ -20,17 +34,21 @@ Why advertising is central to our work, and how we're doing it right
 
 Our approach to advertising
 
-#### [Our Charities](Charities.md)
+#### [Software](Software.md)
 
-How we decide where the money goes
+We're open source
 
-#### [Communities under consideration](Communities.md)
+# WHO
 
-These are the communities we're currently considering
+#### [Helping](Contributing.md)
 
-#### [Contributing](Contributing.md)
+Would you like to contribute with your time? This is how
 
-Would you like to contribute? This is how
+#### [Giving](Giving.md)
+
+Your donations are the fuel 
+
+
 
 
 
