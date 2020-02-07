@@ -43,11 +43,11 @@ Publishers can offer alternative pricing models based on other viewer actions (o
 
 ### Programmatic ads
 
-
+##### Ad Networks
 
 By the 2000s, publishers were handling billions of impressions and thousands of advertisers. In this noisy space, a layer of service providers sprang up called ad networks. **Ad networks are companies which aggregate websites with comparable inventory into bundles, making it easier for advertisers to centralize their ad purchases.** This way advertisers could buy large numbers of ads to show to similar users visiting different websites, and more efficiently hit their impression targets (number of impressions they want their ads to make on viewers).
 
-Ad exchanges
+##### Ad Exchanges
 
 All of this aggregation, and the mind-boggling number of impressions bundled, soon led to a confusing environment in which advertisers didn’t know where their ads were being placed or who was buying them.[18](https://www.cjr.org/tow_center_reports/the-guide-to-advertising-technology.php#citations) Soon enough, ad buyers sought more transparency around what they were getting for the money they were spending. This led to the creation of **ad “exchanges:” open platforms for comparing the price and quality of impressions and buying them.**
 
@@ -59,9 +59,25 @@ All of this aggregation, and the mind-boggling number of impressions bundled, so
 
 
 
-## Other Advertising formats 
+## Other advertising formats 
 
 In addition to the ad types noted above, several of the dominant sites (Google, Facebook, Instagram, Twitter, etc.) have their own formats. 
 
+- For information on **Instagram ad formats**, see https://www.facebook.com/business/help/877053729032543?id=1997185213680277
+- For information on **Twitter ad formats**, see https://marketing.twitter.com/na/en/solutions/ad-format-specs/promoted-tweet
 
+- For information about **Google Mobile ad formats**, see https://support.google.com/google-ads/answer/2472719
 
+## Displaying Google ads in mobile apps
+
+Details about how to display google ads in a mobile app can be found here. https://support.google.com/google-ads/answer/1722057?hl=en
+
+### Firebase as an advertising server
+
+Firebase works with Google's AdMob to provide in app advertising. Ads can be sourced from Google directly, or from 40 ad networks through AdMob mediation. 
+
+Ads can be displayed as banner ads, interstitial ads, video ads, or native ads — which are added to platform native UI components, and can be incorporated via Flutter widgets. 
+
+**Note**: AdMob house ads can be used to cross-promote your apps to your user base, across your family of apps at no cost.
+
+For information about using AdMob in Firebase, see: https://firebase.google.com/docs/admob
