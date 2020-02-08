@@ -1,5 +1,7 @@
 # Advertising Technology
 
+Much of this is stolen directly from https://www.cjr.org/tow_center_reports/the-guide-to-advertising-technology.php. 
+
 ## Advertising types
 
 Display, Branded, Targeted, Programmatic
@@ -62,6 +64,8 @@ All of this aggregation, and the mind-boggling number of impressions bundled, so
 ## Other advertising formats 
 
 In addition to the ad types noted above, several of the dominant sites (Google, Facebook, Instagram, Twitter, etc.) have their own formats. 
+
+- For information on Facebook ad formats, see https://www.facebook.com/business/ads-guide
 
 - For information on **Instagram ad formats**, see https://www.facebook.com/business/help/877053729032543?id=1997185213680277
 - For information on **Twitter ad formats**, see https://marketing.twitter.com/na/en/solutions/ad-format-specs/promoted-tweet
